@@ -17,6 +17,8 @@ const APP_SHELL = [
   "img/avatars/wolverine.jpg",
   "js/app.js",
   "js/sw-utils.js",
+  "js/libs/plugins/mdtoast.min.js",
+  "js/libs/plugins/mdtoast.min.css",
 ];
 
 const APP_SHELL_INMUTABLE = [
@@ -24,7 +26,6 @@ const APP_SHELL_INMUTABLE = [
   "https://fonts.googleapis.com/css?family=Lato:400,300",
   "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
   "css/animate.css",
-  // 'js/app.js'
   "js/libs/jquery.js",
 ];
 
